@@ -1,4 +1,6 @@
-# Basic CRUD Python Module
+CS340 - Client/Server Development
+
+
 This pythons module is built to authenticate to a mongoDB with the ability to use all CRUD to interact with it. (CREATE, READ, UPDATE and DELETE)
 
 # CREATE
